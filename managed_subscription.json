@@ -580,8 +580,8 @@
                         "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg"
                     },
                     "BOLTON-SHOWTIME": {
-                        "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg",
-                        "imageUrl": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg"
+                        "image": "https://www.ALI.com/new-assets/peacock-custom.svg",
+                        "imageUrl": "https://www.ALI.com/new-assets/peacock-custom.svg"
                     },
                     "BOLTON-SPECIAL-PRICE-SHOWTIME": {
                         "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg"
