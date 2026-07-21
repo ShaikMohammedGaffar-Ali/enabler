@@ -382,8 +382,8 @@
                         "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
                     },
                     "BOLTON-HBO-MAX": {
-                        "image": "/assets/content/j6akd76q4v/svg/Channel-Icon-HBOmax-100x100-21.svg",
-                        "imageUrl": "/dtvassets/sales/directv/logos/add-ons/max-horiz-k-21.svg"
+                        "image": "https://www.Directv.com/new-assets/hbomax-custom-385.svg",
+                        "imageUrl": "https://www.Directv.com/new-assets/hbomax-custom-385.svg"
                     },
                     "BOLTON-PEACOCK": {
                         "image": "https://www.directv.com/dtvassets/sales/directv/logos/add-ons/peacock-ck121.svg"
